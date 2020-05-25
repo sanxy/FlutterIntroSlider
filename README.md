@@ -1,6 +1,6 @@
 <h1 align="center">FLUTTER INTRO SLIDER</h1>
 
-<p align="center">Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app. Create intro has never been easier and faster</p>
+<p align="center">Flutter Intro Slider is a flutter app that helps you style your introductory view with dividers and colors.</p>
 
 ## Demo
 <img src="screenshots/all.gif" width="400" height="600"/>
@@ -22,6 +22,17 @@ import 'package:carousel_slider/carousel_slider.dart';
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![img](screenshots/all.gif)
 
 
+<table>
+  <tr>
+    <td>First Screen Intro</td>
+     <td>Second Screen Intro</td>
+     <td>Third Screen Intro</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/first.jpg" width=270 height=480></td>
+    <td><img src="screenshots/second.jpg" width=270 height=480></td>
+    <td><img src="screenshots/third.jpg" width=270 height=480></td>
+  </tr>
+ </table>
