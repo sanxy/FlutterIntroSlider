@@ -2,7 +2,7 @@
 
 ## Demo
 
-<img src="screenshots/all.gif" style=" width:100px ; height:100px " />
+<img src="screenshots/all.gif" style=" width:30px ; height:30px " />
 
 Flutter intro slider.
 
