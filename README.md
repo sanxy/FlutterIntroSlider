@@ -25,7 +25,7 @@ or simply cone the project and run.<br />
 
 <table>
   <tr>
-    <td>First Screen Intro</td>
+    <td align="center">First Screen Intro</td>
      <td>Second Screen Intro</td>
      <td>Third Screen Intro</td>
   </tr>
