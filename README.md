@@ -1,5 +1,8 @@
 # introslider
 
+# Demo
+![header image](https://github.com/sanxy/FlutterIntroSlider/blob/master/screenshots/all.gif)
+
 Flutter intro slider.
 
 ## Getting Started
