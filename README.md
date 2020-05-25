@@ -18,10 +18,7 @@ Import
 ```sh
 import 'package:carousel_slider/carousel_slider.dart';
 ```
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+or simply cone the project.
 
 
 <table>
