@@ -3,7 +3,7 @@
 ## Demo
 ![Default](screenshots/all.gif)
 
-<img src="screenshots/all.gif" width="100" height="30"/>
+<img src="screenshots/all.gif" width="100" height="100"/>
 
 Flutter intro slider.
 
