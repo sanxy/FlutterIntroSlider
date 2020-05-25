@@ -188,12 +188,13 @@ class _MyIntroPage extends State<MyIntroPage> {
 
 Future navigateToRegisterPage(context) async {
   //logic to proceed to register page
+  print("Register button clicked");
 
 }
 
 Future navigateToLoginPage(context) async {
   //logic to proceed to register page
-
+  print("Login button clicked");
 }
 
 class CarouselComponent extends StatelessWidget {
