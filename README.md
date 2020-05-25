@@ -20,9 +20,8 @@ import 'package:carousel_slider/carousel_slider.dart';
 ```
 
 <br />
-or simply cone the project and run.
+or simply cone the project and run.<br />
 <br />
-
 
 <table>
   <tr>
