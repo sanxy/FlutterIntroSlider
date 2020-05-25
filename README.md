@@ -26,8 +26,8 @@ or simply cone the project and run.<br />
 <table>
   <tr>
     <td align="center">First Screen Intro</td>
-     <td>Second Screen Intro</td>
-     <td>Third Screen Intro</td>
+     <td align="center">Second Screen Intro</td>
+     <td align="center">Third Screen Intro</td>
   </tr>
   <tr>
     <td><img src="screenshots/first.jpg" width=270 height=480></td>
