@@ -18,7 +18,9 @@ Import
 ```sh
 import 'package:carousel_slider/carousel_slider.dart';
 ```
-or simply cone the project.
+
+
+or simply cone the project and run.
 
 
 <table>
