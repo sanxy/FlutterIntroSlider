@@ -1,7 +1,8 @@
 # IntroSlider
 
 ## Demo
-![Default](screenshots/all.gif)
+
+<img src="screenshots/all.gif" style=" width:100px ; height:100px " />
 
 Flutter intro slider.
 
